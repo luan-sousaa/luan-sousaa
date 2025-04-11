@@ -8,3 +8,5 @@ Currently leveling up my skills and working on projects that connect code with r
 📫 Contato: luanbispo.sousa263@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&theme=tokyonight)
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&theme=tokyonight)
+
