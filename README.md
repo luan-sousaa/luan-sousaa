@@ -9,4 +9,6 @@ Currently leveling up my skills and working on projects that connect code with r
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-sousaa&layout=compact&theme=tokyonight)
+![snake gif](https://github.com/luan-sousaa/luan-sousaa/blob/output/github-contribution-grid-snake.svg)
+
 
