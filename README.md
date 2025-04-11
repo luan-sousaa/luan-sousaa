@@ -4,7 +4,7 @@ Fullstack by heart, DevOps by mindset — I love crafting seamless user experien
 Currently leveling up my skills and working on projects that connect code with real-world impact. Let's build something amazing together!
 
 🎓 Estudante de ADS na UCB  
-🚀 Focado em Python, Docker e AWS  
+💻 Developer  
 📫 Contato: luanbispo.sousa263@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&theme=tokyonight)
@@ -15,5 +15,12 @@ Currently leveling up my skills and working on projects that connect code with r
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
