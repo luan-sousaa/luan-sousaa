@@ -7,8 +7,10 @@ Currently leveling up my skills and working on projects that connect code with r
 💻 Developer  
 📫 Contato: luanbispo.sousa263@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-sousaa&layout=compact&theme=radical&hide=javascript,tex)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4f46e5&border_color=e5e7eb"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=luan-sousaa&theme=default&hide_border=false&border_radius=6"/>
+</div>
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
