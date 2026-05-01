@@ -11,7 +11,8 @@ Currently leveling up my skills and working on projects that connect code with r
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luan-sousaa&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4f46e5&border_color=e5e7eb"/>
   <img height="160em" src="https://streak-stats.demolab.com?user=luan-sousaa&theme=default&hide_border=false&border_radius=6"/>
 </div>
-###  Tech Stack
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
