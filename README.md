@@ -28,3 +28,12 @@ Currently leveling up my skills and working on projects that connect code with r
 ![Swift](https://img.shields.io/badge/Swift-0f172a?style=for-the-badge&logo=swift&logoColor=F05138)
 
 
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/luan-sousaa?v=1787795634757"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
